@@ -1,2 +1,2 @@
 # CircleCI
-![alt text](successful.png)
+![alt text](sucessful.png)
